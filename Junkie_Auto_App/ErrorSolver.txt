@@ -1,0 +1,13 @@
+
+# Error 1 
+ - Execution failed for task ':react-native-push-notification:compileDebugJavaWithJavac'.
+
+ Solution : - 
+
+    1. open root folder at terminal and type this command and Replace RNPushNotification.java with Replace/RNPushNotification.java
+    Command --->  open node_modules/react-native-push-notification/android/src/main/java/com/dieam/reactnativepushnotification/modules/
+    
+
+import androidx.annotation.Nullable;
+
+                     

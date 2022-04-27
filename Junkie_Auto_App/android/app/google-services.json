@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703729836911",
+    "firebase_url": "https://junkie-auto-default-rtdb.firebaseio.com",
+    "project_id": "junkie-auto",
+    "storage_bucket": "junkie-auto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703729836911:android:782da83f932fdc4e737e9a",
+        "android_client_info": {
+          "package_name": "com.junkie_auto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703729836911-ls3j8f42lcfq52iabhmn9ihu3217e9sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB33hOCA9wa_ytqqPTO_UTCQsYuYFLCB68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703729836911-ls3j8f42lcfq52iabhmn9ihu3217e9sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

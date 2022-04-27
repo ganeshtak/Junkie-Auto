@@ -1,0 +1,10 @@
+App changes according to android App
+
+1. Dashboard slider not moving horizontally.
+2. dashboard header left app logo is old.
+3. Bottom tab name should be 
+    1. Home
+    2. Mymusic
+    3. Record
+    4. Profile
+4. App crashing when click on my recorded tones.

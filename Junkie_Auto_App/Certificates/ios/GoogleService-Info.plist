@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>703729836911-rnc54ubagqk3o8cp61u080uchdvc6ujd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.703729836911-rnc54ubagqk3o8cp61u080uchdvc6ujd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1yIxOxyC6uV7eUKCEp1O-xRkBXEEcEI0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>703729836911</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.junkie.auto</string>
+	<key>PROJECT_ID</key>
+	<string>junkie-auto</string>
+	<key>STORAGE_BUCKET</key>
+	<string>junkie-auto.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:703729836911:ios:18d0bfc7fe61f6bc737e9a</string>
+	<key>DATABASE_URL</key>
+	<string>https://junkie-auto-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
